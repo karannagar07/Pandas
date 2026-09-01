@@ -3,7 +3,7 @@
 This repository contains my **Pandas practice, data analysis notebooks, and small data analysis projects**.
 It documents my learning and practical implementation of Pandas on different datasets.
 
-##📌 Repository Overview
+## Repository Overview
 
 The repository covers various Pandas concepts and practical data analysis techniques, including:
 
@@ -23,9 +23,9 @@ The repository covers various Pandas concepts and practical data analysis techni
 
 ---
 
-# 📂 Projects
+# Projects
 
-## 🎬 1. Anime Feature Extraction & Analysis
+##  1. Anime Feature Extraction & Analysis
 
 A small project based on **raw anime data**, where I first performed data preprocessing and then extracted useful features and performed data analysis.
 
@@ -51,7 +51,7 @@ Some of the questions solved in this project include:
 4. What are the **top 5 anime by episode count**?
 5. Which anime is the **longest-running anime**?
 
-### 🛠️ Concepts Used
+###  Concepts Used
 
 * Data preprocessing
 * Data filtering
@@ -66,7 +66,7 @@ Some of the questions solved in this project include:
 
 ---
 
-# 🌍 2. Countries Data Capstone Project
+#  2. Countries Data Capstone Project
 
 A data analysis project based on **raw country data**, where I first performed data preprocessing and then solved different analytical questions using Pandas.
 
@@ -89,7 +89,7 @@ Some of the questions solved include:
 5. Find the **second-highest populated country**.
 6. Find countries that have **"Republic"** in their name.
 
-### 🛠️ Concepts Used
+###  Concepts Used
 
 * Data preprocessing
 * Data filtering
@@ -105,7 +105,7 @@ Some of the questions solved include:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 * **Python**
 * **Pandas**
@@ -114,7 +114,7 @@ Some of the questions solved include:
 
 ---
 
-# 🎯 Purpose
+#  Purpose 🎯
 
 The purpose of this repository is to document my **Pandas learning journey** and demonstrate my ability to preprocess, analyze, and extract insights from datasets using Python and Pandas.
 
@@ -133,7 +133,7 @@ It contains both **practice notebooks** and **project-based implementations** us
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Karan Nagar**
 
